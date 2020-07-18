@@ -1,0 +1,115 @@
+{
+  "pizzas": [
+    {
+      "id": 15,
+      "offerDay": 1,
+      "imageUrl": "https://www.flavorpizza.com.br/system/painel/images/pizza02.png",
+      "title": "Cheesy bites trio shrimp pizza",
+      "description": "Cheesy bites pizza (Size L) x 1 Pepsi Cola Drink (1.5L) x 1 Free Large Pizza x 1",
+      "ratting": 5.6,
+      "active": true,
+      "off": {
+        "active": true,
+        "toast": 2
+      }
+    },
+    {
+      "id": 127,
+      "offerDay": 1,
+      "imageUrl": "https://www.flavorpizza.com.br/system/painel/images/pizza02.png",
+      "title": "Cheesy bites trio shrimp pizza",
+      "description": "Cheesy bites pizza (Size L) x 1 Pepsi Cola Drink (1.5L) x 1 Free Large Pizza x 1",
+      "ratting": 5.6,
+      "active": true,
+      "off": {
+        "active": true,
+        "toast": 2
+      }
+    },
+    {
+      "id": 190,
+      "imageUrl": "https://www.flavorpizza.com.br/system/painel/images/pizza02.png",
+      "title": "Cheesy bites trio shrimp pizza",
+      "description": "Cheesy bites pizza (Size L) x 1 Pepsi Cola Drink (1.5L) x 1 Free Large Pizza x 1",
+      "ratting": 5.6,
+      "active": true,
+      "off": {
+        "active": true,
+        "toast": 2
+      }
+    },
+    {
+      "id": 10,
+      "offerDay": 1,
+      "imageUrl": "https://www.flavorpizza.com.br/system/painel/images/pizza02.png",
+      "title": "Cheesy bites trio shrimp pizza",
+      "description": "Cheesy bites pizza (Size L) x 1 Pepsi Cola Drink (1.5L) x 1 Free Large Pizza x 1",
+      "ratting": 5.6,
+      "active": true,
+      "off": {
+        "active": true,
+        "toast": 2
+      }
+    },
+    {
+      "id": 19,
+      "imageUrl": "https://www.flavorpizza.com.br/system/painel/images/pizza02.png",
+      "title": "Cheesy bites trio shrimp pizza",
+      "description": "Cheesy bites pizza (Size L) x 1 Pepsi Cola Drink (1.5L) x 1 Free Large Pizza x 1",
+      "ratting": 5.6,
+      "active": true,
+      "off": {
+        "active": true,
+        "toast": 2
+      }
+    },
+    {
+      "id": 18,
+      "imageUrl": "https://www.flavorpizza.com.br/system/painel/images/pizza02.png",
+      "title": "Cheesy bites trio shrimp pizza",
+      "description": "Cheesy bites pizza (Size L) x 1 Pepsi Cola Drink (1.5L) x 1 Free Large Pizza x 1",
+      "ratting": 5.6,
+      "active": true,
+      "off": {
+        "active": true,
+        "toast": 2
+      }
+    },
+    {
+      "id": 17,
+      "imageUrl": "https://www.flavorpizza.com.br/system/painel/images/pizza02.png",
+      "title": "Cheesy bites trio shrimp pizza",
+      "description": "Cheesy bites pizza (Size L) x 1 Pepsi Cola Drink (1.5L) x 1 Free Large Pizza x 1",
+      "ratting": 5.6,
+      "active": true,
+      "off": {
+        "active": true,
+        "toast": 2
+      }
+    },
+    {
+      "id": 11,
+      "imageUrl": "https://www.flavorpizza.com.br/system/painel/images/pizza02.png",
+      "title": "Cheesy bites trio shrimp pizza",
+      "description": "Cheesy bites pizza (Size L) x 1 Pepsi Cola Drink (1.5L) x 1 Free Large Pizza x 1",
+      "ratting": 5.6,
+      "active": true,
+      "off": {
+        "active": true,
+        "toast": 2
+      }
+    },
+    {
+      "id": 12,
+      "imageUrl": "https://www.flavorpizza.com.br/system/painel/images/pizza02.png",
+      "title": "Cheesy bites trio shrimp pizza",
+      "description": "Cheesy bites pizza (Size L) x 1 Pepsi Cola Drink (1.5L) x 1 Free Large Pizza x 1",
+      "ratting": 5.6,
+      "active": true,
+      "off": {
+        "active": true,
+        "toast": 2
+      }
+    }
+  ]
+}
